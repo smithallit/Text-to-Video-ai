@@ -1,0 +1,17 @@
+{
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "duration_per_scene": 5,
+    "output_format": "mp4"
+  },
+  "text": {
+    "font_size": 48,
+    "font_color": [255, 255, 255],
+    "background_color": [0, 0, 0]
+  },
+  "resource_guide": {
+    "input_file": "data/inherited_property_guide.json"
+  }
+}
